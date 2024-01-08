@@ -1,7 +1,7 @@
 # Introduction
 
 
-This is a repository created by Thenuka
+This is a repository created by *Thenuka*
 
 
 ## Usage
